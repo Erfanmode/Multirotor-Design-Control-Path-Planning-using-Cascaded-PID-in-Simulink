@@ -20,4 +20,5 @@ to the potential vector and pass over the obstacles.
 ![{50E17C10-6778-45B8-8F50-039FDB020F61}](https://github.com/user-attachments/assets/1c1b62fa-c0b6-401b-adbf-f4125848662e)
 ![{90A5EE05-7FD3-416F-B5FA-B90FD39BFC36}](https://github.com/user-attachments/assets/80e31755-982d-4a8e-b8a7-15e7d6e7897c)
 ![{0C52DC54-C16C-4C46-BE79-3110A35B492A}](https://github.com/user-attachments/assets/4cd07835-3c07-45e5-b96b-b46f699c1510)
+![{28C771C1-7978-494F-8812-9EE03B50347A}](https://github.com/user-attachments/assets/5895a567-c2c5-41f1-9123-16b7c932e572)
 
