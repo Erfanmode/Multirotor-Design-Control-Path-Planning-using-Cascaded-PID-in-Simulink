@@ -17,4 +17,7 @@ To prevent stagnant points, we have coded a mechanism so in such cases, the airc
 to the potential vector and pass over the obstacles.
 ![{1BE7EB8C-9457-48CC-AA45-967476A77DEE}](https://github.com/user-attachments/assets/b1152eb5-4637-4290-834d-d0cf77367893)
 ![{09632B4E-B0C5-49C1-91E6-D0991FA99829}](https://github.com/user-attachments/assets/46a492a9-dec0-4b3a-bcf3-020bdee50249)
+![{50E17C10-6778-45B8-8F50-039FDB020F61}](https://github.com/user-attachments/assets/1c1b62fa-c0b6-401b-adbf-f4125848662e)
+![{90A5EE05-7FD3-416F-B5FA-B90FD39BFC36}](https://github.com/user-attachments/assets/80e31755-982d-4a8e-b8a7-15e7d6e7897c)
+![{0C52DC54-C16C-4C46-BE79-3110A35B492A}](https://github.com/user-attachments/assets/4cd07835-3c07-45e5-b96b-b46f699c1510)
 
