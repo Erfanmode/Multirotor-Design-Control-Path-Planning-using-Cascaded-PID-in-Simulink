@@ -6,6 +6,7 @@ for a 5 kilograms post package.
 We chose different component including propellers, motors, batteries, and navigational sensors. The multirotor contains two tilt rotors and two stationary rotors.
 Therefore, our aircraft is capable of flying in arbitrary direction while preserving its orientation. 
 We have also designed a robust cascaded PID controller for our robot so it can follow a trajectory.
+By the way, huge shout-out to my dear friends, MohammadJavad Shamsedin & Asma Hallaji for their contributions to this project.
 
 ![{CE74FD13-F8A4-44CF-B04D-06C1B5FD180C}](https://github.com/user-attachments/assets/8603ca5f-b62f-474a-9d93-55a3f20551e5)
 
