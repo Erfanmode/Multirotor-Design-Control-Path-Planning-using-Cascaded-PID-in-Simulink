@@ -1,4 +1,4 @@
-# Multirotor Design, Control & Path Planning using Cascaded PID in Simulink
+# Multirotor Design, Control & Path Planning with Obstacles Avoidance using Cascaded PID in Simulink
 ## 1- The Design of a quad-rotor with 6 degrees of freedom
 This project is the term project for "Aerial Robotics" course of Mechanical Engineering Department at Sharif University of Technology.
 The project includes two separate phases. In the first one, we designed a quad-rotor with 6 degrees of freedom standing a 30 minutes fly
