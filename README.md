@@ -26,5 +26,6 @@ to the potential vector and pass over the obstacles.
 
 ## This project contains:
 - Multirotor Control & Path Following
+- Cascaded PID for Multirotors
 - Path Generation & Obstacles Avoidance
 - Disturbance & Noise Rejection
