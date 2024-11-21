@@ -23,3 +23,8 @@ to the potential vector and pass over the obstacles.
 ![{0C52DC54-C16C-4C46-BE79-3110A35B492A}](https://github.com/user-attachments/assets/4cd07835-3c07-45e5-b96b-b46f699c1510)
 ![{28C771C1-7978-494F-8812-9EE03B50347A}](https://github.com/user-attachments/assets/5895a567-c2c5-41f1-9123-16b7c932e572)
 
+
+## This project contains:
+- Multirotor Control & Path Following
+- Path Generation & Obstacles Avoidance
+- Disturbance & Noise Rejection
