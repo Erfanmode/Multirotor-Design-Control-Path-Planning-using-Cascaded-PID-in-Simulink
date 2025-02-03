@@ -25,8 +25,8 @@ to the potential vector and pass over the obstacles.
 
 
 ## This project contains:
-- '6DoF Multirotor Design' - Multirotor design for post delivery
-- 'Multirotor Control & Path Planning' - Multirotor control & path planning with presence of 3D obstacles
+- `6DoF Multirotor Design` - Multirotor design for post delivery
+- `Multirotor Control & Path Planning` - Multirotor control & path planning with presence of 3D obstacles
 - Cascaded PID for Multirotors
 - Path Generation & Obstacles Avoidance
 - Disturbance & Noise Rejection
